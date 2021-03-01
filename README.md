@@ -1,6 +1,6 @@
 # next-storybook
-Next.jsでstorybookを作成する
-storybookの環境設定はtsukasaさんから提供頂きました！
+Next.jsでstorybookを作成する  
+storybookの環境設定はtsukasaさんから提供頂きました！  
 [tsukasaさん マイページ](https://github.com/tatsuHigh)
 
 ## ローカルでの起動手順
