@@ -1,9 +1,11 @@
 # next-storybook
-IT_KINGDOMメンバープロジェクト. Next.jsでstorybookを作成する
+Next.jsでstorybookを作成する
+storybookの環境設定はtsukasaさんから提供頂きました！
+[tsukasaさん マイページ](https://github.com/tatsuHigh)
 
 ## ローカルでの起動手順
 以下をclone  
-```https://github.com/Qin-tsukasa-unit/next-storybook.git```  
+```https://github.com/cti1650/storybook.git```  
 
 cloneしたフォルダで以下のコマンドを実行  
 ```npm install```  
@@ -17,7 +19,6 @@ cloneしたフォルダで以下のコマンドを実行
 ## 開発手順
 ### 作成物について
 作るものはProjectsにIssueを立ててください。  
-最初はいくつか議題を出しておきます。やりたいものにアサインしてください。
 
 ### ブランチについて
 branchはmasterからfeatureを切って作業してください。  
