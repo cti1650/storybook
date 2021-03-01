@@ -11,7 +11,7 @@
 }
 
 /* 印刷時の調子を整える */
-body {
+div.page_bg {
   width: 210mm; /* 用紙の横幅を改めて指定 Chrome用 */
   -webkit-print-color-adjust: exact;
   color-adjust: exact;
@@ -33,8 +33,11 @@ body {
 }
 /* プレビュー用のスタイル */
 @media screen {
-  body {
+  div.page_bg {
     background: #eee;
+    width:100%;
+    height:100%;
+    padding:20px
   }
   .pageA4 {
     background: white; /* 背景を白く */
