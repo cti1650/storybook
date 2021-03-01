@@ -7,9 +7,10 @@ import {TodayStamp,TodayStampProps} from './TodayStamp';
 export default {
   title: 'Example/Stamp/',
   component: TodayStamp,
+  argTypes: {
+  },
 } as Meta;
 
 const Template: Story<TodayStampProps> = (args) => <TodayStamp {...args} />
 
 export const Sample = Template.bind({});
-Sample.args = {};
