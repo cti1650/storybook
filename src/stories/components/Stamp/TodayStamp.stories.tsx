@@ -5,7 +5,7 @@ import { Story, Meta } from '@storybook/react/types-6-0';
 import {TodayStamp,TodayStampProps} from './TodayStamp';
 
 export default {
-  title: 'Example/Stamp/',
+  title: 'Example/Stamp/TodayStamp',
   component: TodayStamp,
   argTypes: {
   },
